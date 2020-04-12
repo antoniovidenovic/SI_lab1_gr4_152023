@@ -33,3 +33,11 @@ class Point {
 
 
 }
+class Canvas{
+	List<Point> points = new ArrayList<Points>();
+
+	public int compare(Point o1,Point o2){
+		return integer.compare(o1.getX(),o2.gety());
+	}
+
+}
